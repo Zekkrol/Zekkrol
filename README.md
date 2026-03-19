@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 Zekkrol
+<img src="https://ссылка-на-ваше-изображение/баннер.png">
 <!--
 **Zekkrol/Zekkrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
