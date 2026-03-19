@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Zekkrol/Zekkrol/blob/main/jast1.jpg">
+<img src="https://github.com/Zekkrol/Zekkrol/blob/main/jast1.png">
 <!--
 **Zekkrol/Zekkrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
